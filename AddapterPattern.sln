@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddapterPattern", "AddapterPattern\AddapterPattern.csproj", "{13B09404-04FA-4B9B-BCE4-AF2DB7190270}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPatternAPI", "AdapterPatternAPI\AdapterPatternAPI.csproj", "{BA909758-36F9-4B7B-B559-C445BBF56B08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13B09404-04FA-4B9B-BCE4-AF2DB7190270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B09404-04FA-4B9B-BCE4-AF2DB7190270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B09404-04FA-4B9B-BCE4-AF2DB7190270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B09404-04FA-4B9B-BCE4-AF2DB7190270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA909758-36F9-4B7B-B559-C445BBF56B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA909758-36F9-4B7B-B559-C445BBF56B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA909758-36F9-4B7B-B559-C445BBF56B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA909758-36F9-4B7B-B559-C445BBF56B08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AE82E6C-E548-4329-AA18-9B21D8A4363F}
+	EndGlobalSection
+EndGlobal
